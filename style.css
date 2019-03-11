@@ -1,0 +1,25 @@
+
+
+.service{
+	
+	margin-top:50px;
+	margin-bottom:30px;
+	background:pink;
+	display:block;
+	
+}
+	
+.icon{
+	font-size:40px;
+	margin: 20px auto;
+	padding:8px;
+	height:80px;
+	width:80px;
+	border:2px solid black ;
+	border-radius:50%;
+}
+.icon:hover {
+   background:white;
+   border:2px solid #64bb5d;
+	color: #64bb5d;
+}
